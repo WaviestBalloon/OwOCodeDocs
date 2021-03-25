@@ -23,6 +23,7 @@ You can find the repository [here](https://github.com/danii/owo-code)
 | `yelse` | Defines a else, used in a if statements ([Jump to doc](https://doc.rust-lang.org/beta/rust-by-example/flow_control/if_else.html)) |
 
 ## Main Rust
+> **This section is not fully documented**
 
 | Syntax | Description |
 |:---:|---|
@@ -33,5 +34,3 @@ You can find the repository [here](https://github.com/danii/owo-code)
 | `ass` | *Description undocumented* |
 | `cock` | Imports a crate (package) in your project |
 | `enyum` | *Description undocumented* ([Jump to doc](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html)) |
-
-> **This is not fully documented**
