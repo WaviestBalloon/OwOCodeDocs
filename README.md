@@ -18,8 +18,17 @@ You can find the repository [here](https://github.com/danii/owo-code)
 |:---:|---|
 | `twue` | Returns true |
 | `fawse` | Returns false |
-| `fuwun` | Defines a function or `fn` ([Jump to doc](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html))
+| `fuwun` | Defines a function or `fn` ([Jump to doc](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html)) |
 | `yiff` | Used in a if statements ([Jump to doc](https://doc.rust-lang.org/beta/rust-by-example/flow_control/if_else.html)) |
 | `yelse` | Defines a else, used in a if statements ([Jump to doc](https://doc.rust-lang.org/beta/rust-by-example/flow_control/if_else.html)) |
 
+## Main Rust
 
+| Syntax | Description |
+|:---:|---|
+| `assync` | Used for `async`, can be found in functions |
+| `owoit` | Used to `await`, can be found in functions also |
+| `buwueak` | Breaks a loop in order to move on in the script |
+| `me_irl` | Defines self (itself) |
+| `cock` | Imports a crate (package) in your project |
+| `enyum` | *Description undocumented* ([Jump to doc](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html)) |
