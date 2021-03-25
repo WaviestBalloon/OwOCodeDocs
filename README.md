@@ -4,6 +4,8 @@
 
 You can find the repository [here](https://github.com/danii/owo-code)
 
+You can find the furry version [here](https://github.com/WaviestBalloon/OwOCodeDocs/blob/main/OwOedREADME.md) **<---** *wvery hwelpfuwl -w-*
+
 ## Variable names
 
 | Syntax | Description |
