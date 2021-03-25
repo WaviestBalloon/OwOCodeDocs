@@ -32,5 +32,11 @@ You can find the repository [here](https://github.com/danii/owo-code)
 | `buwueak` | Breaks a loop in order to move on in the script |
 | `me_irl` | Defines self (itself) |
 | `ass` | *Description undocumented* |
+| `ref` | *Description undocumented* ([Jump to doc](https://doc.rust-lang.org/std/keyword.ref.html)) |
 | `cock` | Imports a crate (package) in your project |
+| `fillme` | Used for Implement |
 | `enyum` | *Description undocumented* ([Jump to doc](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html)) |
+| `tippitytap` | *Description undocumented* |
+
+## Other Rust
+> **This section is not fully documented**
