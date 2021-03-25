@@ -30,5 +30,6 @@ You can find the repository [here](https://github.com/danii/owo-code)
 | `owoit` | Used to `await`, can be found in functions also |
 | `buwueak` | Breaks a loop in order to move on in the script |
 | `me_irl` | Defines self (itself) |
+| `ass` | *Description undocumented* |
 | `cock` | Imports a crate (package) in your project |
 | `enyum` | *Description undocumented* ([Jump to doc](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html)) |
