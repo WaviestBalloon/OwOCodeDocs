@@ -35,7 +35,7 @@ you can find the wepositowy [hewe](https://github.com/danii/owo-code)
 | `wef` | *descwiption undocumented* ([jump to doc](https://doc.rust-lang.org/std/keyword.ref.html)) |
 | `cock` | impowts a cwate (package) in youw pwoject |
 | `fiwwme` | used fow impwement |
-| `enyum` | *descwiption undocumented* ([jump to doc](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.htmlw)) |
+| `enyum` | used to mwake an enum |
 | `tippitytap` | *descwiption undocumented* |
 
 ## othew rust

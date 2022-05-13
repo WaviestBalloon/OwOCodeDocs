@@ -37,7 +37,7 @@ You can find the furry version [here](https://github.com/WaviestBalloon/OwOCodeD
 | `ref` | *Description undocumented* ([Jump to doc](https://doc.rust-lang.org/std/keyword.ref.html)) |
 | `cock` | Imports a crate (package) in your project |
 | `fillme` | Used for Implement |
-| `enyum` | *Description undocumented* ([Jump to doc](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html)) |
+| `enyum` | Used to make an enum |
 | `tippitytap` | *Description undocumented* |
 
 ## Other Rust
